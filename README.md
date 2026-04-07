@@ -112,13 +112,15 @@ This helps HR teams proactively identify employees likely to leave.
 ---
 
 ## 🔗 Project Links
-- 📊 Dashboard: [View Dashboard](#)  
+- 📊 Dashboard: https://github.com/MeghanaV159/Power-BI-HR-Attrition-Analytics-Dashboard/blob/main/HR%20ATTRITION%20ANALYTICS%20DASHBOARD.pbix 
 - 📁 Dataset: https://github.com/MeghanaV159/Power-BI-HR-Attrition-Analytics-Dashboard/blob/main/Data_HR_Analytics.csv
 
 ---
 
 ## 📊 Dashboard Preview
-(Add your screenshots here after uploading)
+<img width="613" height="330" alt="Screenshot 2026-03-15 053740" src="https://github.com/user-attachments/assets/cbc0bbad-aef6-4c8f-864a-4cfbd0ec24a3" />
+<img width="613" height="330" alt="Screenshot 2026-03-15 053926" src="https://github.com/user-attachments/assets/78cad58b-6212-46e3-99ca-791cca9ba473" />
+
 
 ---
 
