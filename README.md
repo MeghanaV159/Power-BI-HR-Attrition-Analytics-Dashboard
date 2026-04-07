@@ -134,7 +134,7 @@ This helps HR teams proactively identify employees likely to leave.
 
 ## 👩‍💻 Author
 **Meghana V**  
-MBA (Technology Management - HR)  
+MBA (Technology Management)  
 Osmania University  
 
 ---
